@@ -103,6 +103,7 @@ master-year2-advanced-financial-econometrics/
 │
 ├── report/
 │   └── report.pdf
+├── .Rprofile
 ├── .gitignore
 ├── LICENSE
 ├── README.md
